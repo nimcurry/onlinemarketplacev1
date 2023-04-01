@@ -9,7 +9,6 @@
     "start": "npm run serve"
   },
   "dependencies": {
-    "@vue/cli": "^5.0.8",
     "core-js": "^3.8.3",
     "vue": "^3.2.13",
     "vue-router": "^4.1.6"
